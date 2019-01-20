@@ -93,6 +93,11 @@
     "react": ">=16.3.0",
     "react-dom": ">=16.3.0"
   },
+  "peerDependenciesMeta": {
+    "babel-loader": {
+      "optional": true
+    }
+  },
   "publishConfig": {
     "access": "public"
   }
