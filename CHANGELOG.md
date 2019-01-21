@@ -1,4 +1,4 @@
-# 3.4.8
+# 3.4.8a
 
 2018-June-21
 
@@ -146,7 +146,7 @@ Read on for more improvements, fixes, 1In addition, there are hundreds of depend
 #### Bug Fixes
 
 -   [Addon-storyshots] Remove default options on "goto" call [#3298](https://github.com/storybooks/storybook/pull/3298)
--   CLI: add error handling for latest_version helper [#3297](https://github.com/storybooks/storybook/pull/3297     
+-   CLI: add error handling for latest_version helper [#3297](https://github.com/storybooks/storybook/pull/3297
 -   Refactor CLI to use `npm` and `yarn` instead of third party packages [#3275](https://github.com/storybooks/storybook/pull/3275)
 -   Fix issue when extending webpack config [#3279](https://github.com/storybooks/storybook/pull/3279)
 -   Object proptype is shown in addon-info proptable [#3255](https://github.com/storybooks/storybook/pull/3255)

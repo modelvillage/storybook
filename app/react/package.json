@@ -1,6 +1,6 @@
 {
   "name": "@storybook/react",
-  "version": "3.4.8",
+  "version": "3.4.8a",
   "description": "Storybook for React: Develop React Component in isolation with Hot Reloading.",
   "homepage": "https://github.com/storybooks/storybook/tree/master/app/react",
   "bugs": {
